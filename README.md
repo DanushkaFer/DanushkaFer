@@ -25,14 +25,28 @@ My technical work brings that operational perspective into data analysis and app
 - **Business applications** — working with C# and SQL database connections.
 - **Digital transformation** — exploring how software and data can improve manufacturing workflows.
 
-## Tools I work with
+## Technical skills
 
-| Area | Technologies |
-| --- | --- |
-| Data preparation | Power Query |
-| Analytics and calculations | DAX |
-| Application development | C# |
-| Database integration | SQL connections |
+### Backend Development
+
+- C#, ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms
+- REST APIs, SQL Server, T-SQL
+
+### Frontend Development
+
+- HTML5, CSS3, JavaScript
+- Bootstrap, jQuery
+
+### Business Intelligence & Automation
+
+- Microsoft Power BI, DAX, Power Query
+- Power Apps, Power Automate
+- SharePoint, Advanced Excel
+
+### Enterprise Systems
+
+- SAP ERP, Infor ERP
+- Manufacturing and Production Management Systems
 
 ## Let's connect
 
